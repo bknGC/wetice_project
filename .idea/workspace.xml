@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cc1d5e-e46d-4f91-9d6d-bfa28b3f09b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/blog/Gemfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/app/views/layouts/application.html.erb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            <state relative-caret-position="270">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -30,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/app/views/posts/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -126,7 +128,6 @@
         <option value="$PROJECT_DIR$/blog/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/blog/config/routes.rb" />
         <option value="$PROJECT_DIR$/blog/app/assets/stylesheets/posts.scss" />
-        <option value="$PROJECT_DIR$/blog/Gemfile" />
         <option value="$PROJECT_DIR$/blog/app/views/posts/_post.html.erb" />
         <option value="$PROJECT_DIR$/blog/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/blog/app/views/posts/show.html.erb" />
@@ -143,6 +144,7 @@
         <option value="$PROJECT_DIR$/blog/config/locales/ru.yml" />
         <option value="$PROJECT_DIR$/blog/app/views/posts/edit.html.erb" />
         <option value="$PROJECT_DIR$/blog/app/views/posts/index.html.erb" />
+        <option value="$PROJECT_DIR$/blog/Gemfile" />
       </list>
     </option>
   </component>
@@ -169,40 +171,6 @@
               <item name="wetice_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="wetice_project" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wetice_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wetice_project" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wetice_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wetice_project" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wetice_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wetice_project" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wetice_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wetice_project" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wetice_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wetice_project" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="locales" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554256325916</updated>
       <workItem from="1554256327096" duration="2623000" />
-      <workItem from="1554259004554" duration="5172000" />
+      <workItem from="1554259004554" duration="5479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7795000" />
+    <option name="totallyTimeSpent" value="8102000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,14 +325,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="446" y="87" width="1106" height="1023" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.254717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.254717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.38814318" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.38814318" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32991204" />
@@ -384,13 +353,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog/app/assets/stylesheets/posts.scss" />
-    <entry file="file://$PROJECT_DIR$/blog/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -533,6 +495,13 @@
           <folding>
             <element signature="n#t#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
